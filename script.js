@@ -1,5 +1,5 @@
 'use strict';
-var countDownDate = new Date('20june, 2022 20:54:00').getTime();
+var countDownDate = new Date('21june, 2022 20:54:00').getTime();
 const btnTimer = document.getElementById('btn-timer');
 const contactBtn = document.getElementById('cbtn');
 const footer = document.getElementById('footer');

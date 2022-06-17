@@ -27,8 +27,8 @@ var x = setInterval(function () {
 contactBtn.addEventListener('click', function () {
   footer.scrollIntoView({ behavior: 'smooth' });
 });
-btnTimer.addEventListener('click', function () {
-  if ((document.getElementById('timer').innerHTML = 'Sell Ended!!!')) {
-    alert('Sale ended!!!');
-  }
-});
+// btnTimer.addEventListener('click', function () {
+//   if ((document.getElementById('timer').innerHTML = 'Sell Ended!!!')) {
+//     alert('Sale ended!!!');
+//   }
+// });
